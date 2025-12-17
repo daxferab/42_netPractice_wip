@@ -12,16 +12,16 @@ Once a level has been completed, a configuration file must be exported by clicki
 During the evaluation, the student has to fix 3 random network diagrams in 15 minutes or less.
 # Resources
 ### Concepts
-**- TCP/IP Addressing:**\
-
-**- Subnet mask:**\
-
-**- Default gateway:**\
-
-**- Routers and switches:**\
-
-**- OSI layer:**\
-
+**- TCP/IP Addressing:** \
+text\
+**- Subnet mask:** \
+text\
+**- Default gateway:** \
+text\
+**- Routers and switches:** \
+text\
+**- OSI layer:** \
+text
 ### Documentation
 
 ### AI Usage
