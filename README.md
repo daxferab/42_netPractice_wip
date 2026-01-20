@@ -48,13 +48,13 @@ Thats why networks need to be broken down into smaller ones, this is called subn
 	- Second subnet `255.255.255.129` - `255.255.255.254`(126 hosts)
 
 - **Switches:** \
-	
+	Layer‑2 devices that forward Ethernet frames within the same LAN based on MAC addresses, reducing broadcast traffic.
 
 - **TCP/IP Addressing:** \
 	It's a group of communication protocols used in networking\
 
 	TCP (Transmission Control Protocol): Ensures reliable data transmission between devices.
-	TCP/IP is based on 4 layeres:
+	TCP/IP is based on 4 layers:
 
 	- Application Layer: Manages applications.
 	- Transport Layer: Ensures data delivery.
@@ -70,10 +70,12 @@ Thats why networks need to be broken down into smaller ones, this is called subn
 	It also gives every device access to the internet.
 
 - **OSI layers:** \
-	
+	Seven‑layer reference model (Physical, Data Link, Network, Transport, Session, Presentation, Application) used to conceptualize network functions.
+
 ### Documentation
 - **YouTube tutorials:** \
 [Subnet mask](http://youtube.com/watch?v=s_Ntt6eTn94&list=PLCXqoZAc8-tzD5N5oCyIyEcMg_NDs6o7C)\
 [IP Addresses playlist](https://www.youtube.com/watch?v=5WfiTHiU4x8&list=PLIhvC56v63IKrRHh3gvZZBAGvsvOhwrRF)
 - **Articles** \
 [Computer networks](https://www.freecodecamp.org/news/computer-networks-and-how-to-actually-understand-them-c1401908172d/)
+[Wikipedia OSI Model](https://en.wikipedia.org/wiki/OSI_model)
