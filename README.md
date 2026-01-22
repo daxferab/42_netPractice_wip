@@ -48,7 +48,7 @@ Thats why networks need to be broken down into smaller ones, this is called subn
 	- Second subnet `255.255.255.129` - `255.255.255.254`(126 hosts)
 
 - **Switches:** \
-	Layer‑2 devices that forward Ethernet frames within the same LAN based on MAC addresses, reducing broadcast traffic.
+	It allows you to connect multiple devices within the same network, it has no interface.
 
 - **TCP/IP Addressing:** \
 	It's a group of communication protocols used in networking\
